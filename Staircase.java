@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+#program to display a stair case made up of '#' symbol
 
 public class Staircase {
 
