@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-#program to convert 12 hour clock to 24 hour clock
+//program to convert 12 hour clock to 24 hour clock
 
 public class Clockformat {
 
