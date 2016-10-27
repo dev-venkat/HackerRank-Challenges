@@ -7,7 +7,7 @@ public class Clockformat {
 
     public static void main(String[] args) {
 	
-		System.out.println("Enter time in ")
+	System.out.println("Enter time in HH:MM:SSAM/PM format: ");
         Scanner in = new Scanner(System.in);
         String time = in.next();
         
