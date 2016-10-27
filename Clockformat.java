@@ -11,8 +11,8 @@ public class Clockformat {
         Scanner in = new Scanner(System.in);
         String time = in.next();
         
-        if(time.substring(8)=="AM")            
-            System.out.println(time.substring(1,8));
+        if(time.substring(8).equals("AM"))            
+            System.out.println(time.substring(0,8));
         else{
             int t=0;
             t = Integer.parseInt(time.substring(1,2))+12;
