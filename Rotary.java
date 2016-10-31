@@ -4,6 +4,8 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+//Challenge link: https://www.hackerrank.com/challenges/circular-array-rotation
+
 public class Rotary {
 
     public static void main(String[] args) {
@@ -31,14 +33,9 @@ public class Rotary {
 				a[0] = a1[0];
 				a[n-1]=a1[n-1];
 			}
-			
-			
-    //    System.out.println(a[0]+" "+a[1]+" "+a[2]+" "+a[3]);
 		
 		for(int i=0; i < q; i++){
 			System.out.println(a1[m[i]]);
-		}
-        
-        
+		}  
     }
 }
