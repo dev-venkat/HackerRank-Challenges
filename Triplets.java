@@ -4,6 +4,8 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+//program to compare two sets of triplets[A(a0,a1,a2) and B(b0,b1,b2)] and display the cumulative score a b
+
 public class Triplets {
 
     public static void main(String[] args) {
