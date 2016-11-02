@@ -4,6 +4,8 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+//Challenge: Calculate how much fraction of an integer array is positive, negative and zeroes
+
 public class Plusminus {
 
     public static void main(String[] args) {
